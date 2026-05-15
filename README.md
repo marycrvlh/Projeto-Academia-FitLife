@@ -30,3 +30,9 @@ Este projeto foi criado para desenvolver habilidades em:
 ## 👨‍💻 Desenvolvido por
 
 Mariane Carvalho Dearo - Aluna do Curso Técnico de Desenvolvimento de Sistemas — Jorge Coury.
+
+## 🔗 Projeto Online
+
+Acesse o projeto clicando no link abaixo:
+
+👉 [projeto-academia-fit-life.vercel.app](https://projeto-academia-fit-life.vercel.app/)
